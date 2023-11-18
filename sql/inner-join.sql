@@ -1,0 +1,1 @@
+SELECT u.id as uid, p.id as pid FROM users as u INNER JOIN profiles p ON u.id = p.user_id;
