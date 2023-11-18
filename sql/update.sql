@@ -1,0 +1,1 @@
+UPDATE users SET first_name = "Carlos", last_name = "Ferreira" WHERE id = 1;
