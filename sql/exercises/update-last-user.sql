@@ -1,0 +1,1 @@
+UPDATE users SET full_name = CONCAT(users.full_name, ' ATUALIZADO') WHERE id = 5;
